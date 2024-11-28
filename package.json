@@ -94,7 +94,7 @@
     "lodash": "^4.17.11",
     "null-loader": "^1.0.0",
     "popper.js": "^1.14.1",
-    "swiper": "^4.2.2",
+    "swiper": "^6.5.1",
     "whatwg-fetch": "^3.0.0",
     "yarn": "^1.7.0"
   }

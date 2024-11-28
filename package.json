@@ -85,7 +85,7 @@
   },
   "dependencies": {
     "bootstrap": "4.3.1",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-zoom": "^0.6.3",
     "flatpickr": "^4.6.2",
     "hugo-bin": "^0.44.1",

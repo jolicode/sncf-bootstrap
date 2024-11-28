@@ -48,7 +48,7 @@
     "icofont": "icon-font-generator src/assets/icons/*.svg -o src/assets/fonts/icons --csspath src/scss/common/generic/_icons.css --prefix icons --fontspath ../assets/fonts/icons/ --html false -j false"
   },
   "devDependencies": {
-    "ajv": "^6.7.0",
+    "ajv": "^6.12.3",
     "autoprefixer": "^8.2.0",
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.2",
